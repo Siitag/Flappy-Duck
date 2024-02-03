@@ -1,2 +1,2 @@
 # Flappy-Duck
-A Python game I developed for the fun of it
+My First Project, for my A-Level computer science coursework I made a game similar to Flappy Bird
